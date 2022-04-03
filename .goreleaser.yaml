@@ -1,0 +1,9 @@
+project_name: dudelve
+
+release:
+  prerelease: auto
+  draft: true # Idea: make final with Release action? Is that possible?
+
+changelog:
+  # Skip changelog generation; have Release action do it later
+  skip: true
