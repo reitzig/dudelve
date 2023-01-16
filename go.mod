@@ -4,7 +4,7 @@ go 1.18
 
 require github.com/charmbracelet/bubbletea v0.23.2
 
-require github.com/dustin/go-humanize v1.0.0
+require github.com/dustin/go-humanize v1.0.1
 
 require (
 	github.com/aymanbagabas/go-osc52 v1.2.1 // indirect
