@@ -2,7 +2,7 @@ module dudelve
 
 go 1.18
 
-require github.com/charmbracelet/bubbletea v0.26.5
+require github.com/charmbracelet/bubbletea v0.26.6
 
 require github.com/dustin/go-humanize v1.0.1
 
